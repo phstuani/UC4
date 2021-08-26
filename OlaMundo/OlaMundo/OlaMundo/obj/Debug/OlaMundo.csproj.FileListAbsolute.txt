@@ -1,0 +1,6 @@
+C:\Users\pedro.hscampos3\Documents\OlaMundo\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe.config
+C:\Users\pedro.hscampos3\Documents\OlaMundo\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe
+C:\Users\pedro.hscampos3\Documents\OlaMundo\OlaMundo\OlaMundo\bin\Debug\OlaMundo.pdb
+C:\Users\pedro.hscampos3\Documents\OlaMundo\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csprojAssemblyReference.cache
+C:\Users\pedro.hscampos3\Documents\OlaMundo\OlaMundo\OlaMundo\obj\Debug\OlaMundo.exe
+C:\Users\pedro.hscampos3\Documents\OlaMundo\OlaMundo\OlaMundo\obj\Debug\OlaMundo.pdb
